@@ -1,7 +1,7 @@
 # 🛍️ Customer Shopping Analysis Dashboard  
 End-to-End Data Analysis Project using Python, SQL & Power BI
 
----
+
 
 ## 📌 Project Overview
 
@@ -9,7 +9,7 @@ This project analyzes customer shopping behavior to uncover revenue patterns, cu
 
 The objective is to transform raw transactional data into actionable business insights using Python for data cleaning, SQL for analysis, and Power BI for interactive visualization.
 
----
+
 
 ## 🎯 Business Objectives
 
@@ -19,16 +19,13 @@ The objective is to transform raw transactional data into actionable business in
 - Evaluate customer satisfaction using review ratings
 - Provide interactive filtering for business decision-making
 
----
+
 
 ## 🛠 Tools & Technologies
 
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+- **Python** 
 - **SQL** (Data querying & aggregation)
 - **Power BI** (Data modeling, DAX, Dashboard creation)
-- **Excel** (Initial data validation)
-
----
 
 ## 📊 Dashboard KPIs
 
@@ -37,7 +34,7 @@ The objective is to transform raw transactional data into actionable business in
 - Average Purchase Amount
 - Average Review Rating
 
----
+
 
 ## 📈 Analysis Performed
 
@@ -54,7 +51,7 @@ The objective is to transform raw transactional data into actionable business in
 - Gender-based Analysis
 - Shipping Type Preferences
 
----
+
 
 ## 🔍 Key Insights
 
@@ -64,8 +61,6 @@ The objective is to transform raw transactional data into actionable business in
 - Average rating indicates moderate customer satisfaction.
 - Store Pickup is a preferred shipping option.
 
----
 
-## 📂 Repository Structure
 
 
