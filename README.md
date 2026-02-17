@@ -1,82 +1,71 @@
-🛍️ Customer Shopping Behavior Dashboard
+# 🛍️ Customer Shopping Analysis Dashboard  
+End-to-End Data Analysis Project using Python, SQL & Power BI
 
-Customer Shopping Data Analysis using Python, SQL & Power BI
+---
 
-📖 Overview
+## 📌 Project Overview
 
-This project analyzes customer shopping behavior to understand revenue patterns, product performance, demographic trends, and subscription impact.
+This project analyzes customer shopping behavior to uncover revenue patterns, customer demographics, product performance, and subscription impact.
 
-The project follows an end-to-end analytics workflow:
+The objective is to transform raw transactional data into actionable business insights using Python for data cleaning, SQL for analysis, and Power BI for interactive visualization.
 
-Data cleaning and transformation using Python
+---
 
-Business analysis using SQL
+## 🎯 Business Objectives
 
-Interactive dashboard development in Power BI
+- Identify top-performing product categories
+- Analyze revenue contribution by age group
+- Understand customer subscription behavior
+- Evaluate customer satisfaction using review ratings
+- Provide interactive filtering for business decision-making
 
-The final output is an interactive Customer Behavior Dashboard that provides KPIs and segmented insights for decision-making.
+---
 
-📊 Dashboard Features
-🔢 Key Performance Indicators (KPIs)
+## 🛠 Tools & Technologies
 
-Total Customers: 650
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+- **SQL** (Data querying & aggregation)
+- **Power BI** (Data modeling, DAX, Dashboard creation)
+- **Excel** (Initial data validation)
 
-Average Purchase Amount: $59.89
+---
 
-Average Review Rating: 3.71
+## 📊 Dashboard KPIs
 
-📈 Revenue & Sales Analysis
+- Total Customers
+- Total Revenue
+- Average Purchase Amount
+- Average Review Rating
 
-Revenue by Category
+---
 
-Sales Count by Category
+## 📈 Analysis Performed
 
-Revenue by Age Group
+### 1️⃣ Revenue Analysis
+- Revenue by Product Category
+- Revenue by Age Group
 
-Sales by Age Group
+### 2️⃣ Sales Analysis
+- Sales Count by Category
+- Sales by Age Group
 
-👥 Customer Segmentation
+### 3️⃣ Customer Segmentation
+- Subscription Status Distribution
+- Gender-based Analysis
+- Shipping Type Preferences
 
-Subscription Status (Yes / No)
+---
 
-Gender Filter
+## 🔍 Key Insights
 
-Product Category Filter
+- Clothing category generates the highest revenue.
+- Young Adults contribute the largest share of sales.
+- Majority of customers are non-subscribers.
+- Average rating indicates moderate customer satisfaction.
+- Store Pickup is a preferred shipping option.
 
-Shipping Type Filter
+---
 
-All visuals are interactive and respond to slicer selections.
+## 📂 Repository Structure
 
-🛠 Tools Used
 
-Python (Pandas, NumPy, Matplotlib, Seaborn)
-
-SQL (MySQL / PostgreSQL / SQL Server)
-
-Power BI (DAX, Data Modeling)
-
-Excel (Initial validation)
-
-🔍 Business Questions Answered
-
-Which product category generates the highest revenue?
-
-Which age group contributes most to sales?
-
-How does subscription status affect customer distribution?
-
-What shipping method is most preferred?
-
-What is the overall average customer satisfaction rating?
-
-📌 Key Insights
-
-Clothing generates the highest revenue among all categories.
-
-Young Adults contribute the highest revenue share.
-
-70%+ customers are non-subscribers.
-
-Store Pickup is a frequently selected shipping option.
-
-Average customer rating suggests moderate satisfaction.
